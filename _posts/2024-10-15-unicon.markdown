@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "UniCon: A Simple Approach to Unifying Diffusion-based Conditional Generation"
+date:   2024-10-15 00:00:00 +00:00
+image: images/unicon.png
+categories: research
+author: "Xirui Li"
+authors: "<strong>Xirui Li</strong>, Charles Herrmann, Kelvin C.K. Chan, Yinxiao Li, Deqing Sun, Chao Ma, Ming-Hsuan Yang"
+venue: "<em>arXiv</em>, 2024."
+arxiv: https://arxiv.org/abs/2410.11439
+projectpage: https://lixirui142.github.io/unicon-diffusion/
+---
+A simple, unified framework to handle diverse conditional generation tasks involving a specific image-condition correlation in one diffusion model.

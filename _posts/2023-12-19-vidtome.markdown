@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "VidToMe: Video Token Merging for Zero-Shot Video Editing"
+date:   2023-12-19 00:00:00 +00:00
+video: videos/vidtome.mp4
+categories: research
+author: "Xirui Li"
+authors: "<strong>Xirui Li</strong>, Chao Ma, Xiaokang Yang, Ming-Hsuan Yang"
+venue: "<em>CVPR</em>, 2024."
+arxiv: https://arxiv.org/abs/2312.10656
+projectpage: https://vidtome-diffusion.github.io/
+code: https://github.com/lixirui142/VidToMe
+---
+A zero-shot video editing method utilizing a pretrained image diffusion model. The key idea is to enforce video temporal consistency by merging self-attention tokens across frames.
