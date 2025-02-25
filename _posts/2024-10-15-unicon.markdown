@@ -9,5 +9,6 @@ authors: "<strong>Xirui Li</strong>, Charles Herrmann, Kelvin C.K. Chan, Yinxiao
 venue: "<em>ICLR</em>, 2025."
 arxiv: https://arxiv.org/abs/2410.11439
 projectpage: https://lixirui142.github.io/unicon-diffusion/
+code: https://github.com/lixirui142/UniCon
 ---
 A simple, unified framework to handle diverse conditional generation tasks involving a specific image-condition correlation in one diffusion model.
