@@ -2,7 +2,7 @@
 layout: post
 title:  "UniCon: A Simple Approach to Unifying Diffusion-based Conditional Generation"
 date:   2024-10-15 00:00:00 +00:00
-image: videos/unicon_res.mp4
+video: videos/unicon.mp4
 categories: research
 author: "Xirui Li"
 authors: "<strong>Xirui Li</strong>, Charles Herrmann, Kelvin C.K. Chan, Yinxiao Li, Deqing Sun, Chao Ma, Ming-Hsuan Yang"
